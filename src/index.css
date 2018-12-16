@@ -9,3 +9,7 @@ body {
   background-color: #FF9B71;
   color: white;
 }
+
+*:focus{
+  outline: none;
+}
